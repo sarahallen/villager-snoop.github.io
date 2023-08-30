@@ -30,7 +30,7 @@ baseurl: ""      # place folder name if the site is served in a subfolder
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: pineapple
 gems:
   - jekyll-feed
 
