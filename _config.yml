@@ -8,6 +8,8 @@ linkedin: "https://www.linkedin.com/sarahallen"
 github: "https://github.com/sarahallen"
 
 # Site config
+domain: villager-snoop.github.io       
+url: https://villager-snoop.github.io
 baseurl: ""
 highlighter: rouge
 sass:
