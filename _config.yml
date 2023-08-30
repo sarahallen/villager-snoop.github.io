@@ -1,15 +1,14 @@
 # User config
-author: "Pineapple"
-tagline: "Pineapple Certfied Jekyll Theme"
-description: "In 1493, explorer Christopher Columbus found pineapples on Guadeloupe Island in the Caribbean. Pineapple on pizza soon followed..."
-keywords: "Pineapple, Pineapple Pizza, Pineapple House"
-email: "pineapple@example.com"
-linkedin: "https://www.linkedin.com/"
-twitter: "https://twitter.com/"
-github: "https://github.com/"
+author: "Sarah Allen"
+tagline: "Who dat (villager?)"
+description: "Animal crossing classifier model using fastai and resnet18 model"
+keywords: "Animal Crossing, AI, New Horizons"
+email: "allensarahanne@gmail.com"
+linkedin: "https://www.linkedin.com/sarahallen"
+github: "https://github.com/sarahallen"
 
 # Site config
-baseurl: "/pineapple"
+baseurl: ""
 highlighter: rouge
 sass:
   sass_dir: assets/scss
